@@ -1,0 +1,34 @@
+_repo: The-Loot-of-Cities-Being-the-Adventures-of-a-Millionaire-in-Search-of-Joy-a-Fantasia-and-Othe__63580
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, Enoch Arnold
+    - Bennett, E. Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: https://en.wikipedia.org/wiki/Arnold_Bennett
+description: ''
+gutenberg_issued: '2020-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63580'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Millionaires -- Fiction'
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Short stories, English'
+- GITenberg
+tableOfContents: The loot of cities -- Mr. Penfound's two burglars -- Midnight at
+  the Grand Babylon -- The police station -- The adventure of the prima donna -- The
+  episode in room 222 -- Saturday to Monday -- A dinner at the Louvre.
+title: "The Loot of Cities\r\nBeing the Adventures of a Millionaire in Search of Joy\
+  \ (a Fantasia); and Other Stories"
+url: http://www.gutenberg.org/ebooks/63580
